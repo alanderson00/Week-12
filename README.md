@@ -1,3 +1,3 @@
 # METHOD USED
 # Adam Anderson
-# CSCI 102
+# CSCI 102 - Section E
