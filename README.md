@@ -1,4 +1,4 @@
 # METHOD USED
 # Adam Anderson
 # CSCI 102 - Section E
-# Week 12
+# Week 12 - Part A
